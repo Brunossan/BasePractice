@@ -1,12 +1,13 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using TestProject.Util;
 
 namespace TestProject.Exercises
 {
     #region Task
     /// https://practice.geeksforgeeks.org/problems/subarray-with-given-sum-1587115621/1
-    /// 
+     
     /* 
      Given an unsorted array A of size N that contains only non-negative integers, find a continuous sub-array which adds to a given number S.
      Your Task:
@@ -40,14 +41,43 @@ namespace TestProject.Exercises
     
     class SubArrayWithGivenSum
     {
+        public void testMethod()
+        {
+            var res1 = subarraySum(new int[]{1,2,3,7,5}, 5, 12);
+            
+            res1.PrintArray();
+            
+            var res2 = subarraySum(new int[]{1,2,3,4,5,6,7,8,9,10}, 10, 15);
+            res2.PrintArray();
+        }
+
         public int[] subarraySum(int[] arr, int n, int s)
         {
             int init = 0;
             int end = 0;
 
-            //Logic goes here
+            var sum = arr[0];
 
-            return new int[2] { init, end };
+            //Logic goes here
+            while (init < n && end < n)
+            {
+                // If the index 
+                if (sum == s)
+                    return new int[2] { init + 1 , end + 1 }; // considering vector index starting as 1
+
+                if(sum > s)
+                {
+                    sum -= arr[init];
+                    init ++;
+                } 
+                else
+                {
+                    end ++;
+                    sum += arr[end];
+                }
+            }
+            
+            return new int[1] { -1 };
         }
     }
 }

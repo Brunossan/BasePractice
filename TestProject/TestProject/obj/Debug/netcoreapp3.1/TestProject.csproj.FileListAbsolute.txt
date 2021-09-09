@@ -12,3 +12,17 @@ C:\Users\uC250378\source\repos\TestProject\TestProject\obj\Debug\netcoreapp3.1\T
 C:\Users\uC250378\source\repos\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.dll
 C:\Users\uC250378\source\repos\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.pdb
 C:\Users\uC250378\source\repos\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.genruntimeconfig.cache
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.exe
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.deps.json
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.runtimeconfig.json
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.runtimeconfig.dev.json
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.dll
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\bin\Debug\netcoreapp3.1\TestProject.pdb
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.AssemblyReference.cache
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfoInputs.cache
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.AssemblyInfo.cs
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.csproj.CoreCompileInputs.cache
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.dll
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.pdb
+C:\Projects\Estudo\BasePractice\TestProject\TestProject\obj\Debug\netcoreapp3.1\TestProject.genruntimeconfig.cache
