@@ -6,8 +6,7 @@ using TestProject.Util;
 namespace TestProject.Exercises
 {
     #region Task
-    /// https://leetcode.com/explore/challenge/card/september-leetcoding-challenge-2021/638/week-3-september-15th-september-21st/3976/
-    /// Longest Turbulent Subarray
+    /// https://leetcode.com/problems/longest-turbulent-subarray/
      
     /* 
         Given an integer array arr, return the length of a maximum size turbulent subarray of arr.
