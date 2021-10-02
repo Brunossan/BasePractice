@@ -47,7 +47,7 @@ namespace TestProject.Exercises
      */
     #endregion
     
-    class EditDistance
+    public class EditDistance
     {
         public void testMethod()
         {
