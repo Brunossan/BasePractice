@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CleanCodeShenaningans")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+222433ba9d0ce9e648b6e0a4987209ca27438797")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+801e020a9767499912b79ed05a9f97ba29e835f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("CleanCodeShenaningans")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CleanCodeShenaningans")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

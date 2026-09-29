@@ -1,0 +1,16 @@
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\bin\Debug\net10.0\CleanCodeShenaningans.exe
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\bin\Debug\net10.0\CleanCodeShenaningans.deps.json
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\bin\Debug\net10.0\CleanCodeShenaningans.runtimeconfig.json
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\bin\Debug\net10.0\CleanCodeShenaningans.dll
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\bin\Debug\net10.0\CleanCodeShenaningans.pdb
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\obj\Debug\net10.0\CleanCodeShenaningans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\obj\Debug\net10.0\CleanCodeShenaningans.AssemblyInfoInputs.cache
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\obj\Debug\net10.0\CleanCodeShenaningans.AssemblyInfo.cs
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\obj\Debug\net10.0\CleanCodeShenaningans.csproj.CoreCompileInputs.cache
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\obj\Debug\net10.0\CleanCodeShenaningans.sourcelink.json
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\obj\Debug\net10.0\CleanCodeShenaningans.dll
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\obj\Debug\net10.0\refint\CleanCodeShenaningans.dll
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\obj\Debug\net10.0\CleanCodeShenaningans.pdb
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\obj\Debug\net10.0\CleanCodeShenaningans.genruntimeconfig.cache
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\obj\Debug\net10.0\ref\CleanCodeShenaningans.dll
+C:\Projetos\BasePractice\TestProject\CleanCodeShenaningans\obj\Debug\net10.0\CleanCod.C88847DF.Up2Date

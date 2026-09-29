@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projetos\\BasePractice\\TestProject\\DesignPatterns\\CleanCodeShenaningans.csproj": {}
+    "C:\\Projetos\\BasePractice\\TestProject\\CleanCodeShenaningans\\CleanCodeShenaningans.csproj": {}
   },
   "projects": {
-    "C:\\Projetos\\BasePractice\\TestProject\\DesignPatterns\\CleanCodeShenaningans.csproj": {
+    "C:\\Projetos\\BasePractice\\TestProject\\CleanCodeShenaningans\\CleanCodeShenaningans.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projetos\\BasePractice\\TestProject\\DesignPatterns\\CleanCodeShenaningans.csproj",
+        "projectUniqueName": "C:\\Projetos\\BasePractice\\TestProject\\CleanCodeShenaningans\\CleanCodeShenaningans.csproj",
         "projectName": "CleanCodeShenaningans",
-        "projectPath": "C:\\Projetos\\BasePractice\\TestProject\\DesignPatterns\\CleanCodeShenaningans.csproj",
+        "projectPath": "C:\\Projetos\\BasePractice\\TestProject\\CleanCodeShenaningans\\CleanCodeShenaningans.csproj",
         "packagesPath": "C:\\Users\\ssant\\.nuget\\packages\\",
-        "outputPath": "C:\\Projetos\\BasePractice\\TestProject\\DesignPatterns\\obj\\",
+        "outputPath": "C:\\Projetos\\BasePractice\\TestProject\\CleanCodeShenaningans\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
