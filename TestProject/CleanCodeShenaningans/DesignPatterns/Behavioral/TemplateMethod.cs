@@ -4,8 +4,6 @@ using System.Text;
 
 namespace CleanCodeShenaningans.DesignPatterns.Behavioral;
 
-// Example from https://refactoring.guru/design-patterns/template-method
-
 public abstract class ArtificialInteligenceTemplateMethod
 {
     public string Move { get; set; }
